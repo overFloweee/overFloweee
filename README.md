@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![暗色](https://raw.githubusercontent.com/overFloweee/overFloweee/output/github-contribution-grid-snake-dark.svg)
+<!-- ![暗色](https://raw.githubusercontent.com/overFloweee/overFloweee/output/github-contribution-grid-snake-dark.svg) -->
 ![亮色](https://raw.githubusercontent.com/overFloweee/overFloweee/output/github-contribution-grid-snake.svg)
